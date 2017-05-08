@@ -1,0 +1,757 @@
+
+Applying ATLAS style settings...
+
+
+Processing SF_sys.C+("all",3)...
+
+Applying ATLAS style settings...
+
+Total bin== 13 
+   bin=13
+Load End... Start Caluculate
+00 bin :  25 GeV -  28 GeV 
+Eff_(MC,Data) = 2.571 , 6.102 
+
+                          MUONS_ID_1down(SF)   = 1.335 , 0.000 %
+                          MUONS_MS_1down(SF)   = 0.000 , 0.511 %
+                       MUONS_SCALE_1down(SF)   = 0.011 , 0.519 %
+                    MET_SoftTrk_ResoPerp(SF)   = 16.306 , 0.000 %
+                   MET_SoftTrk_ScaleDown(SF)   = 1.206 , 1.890 %
+                        PRW_DATASF_1down(SF)   = 0.000 , 15.627 %
+                         MU_EFF_STATdown(SF)   = 0.013 , 0.013 %
+                          MU_EFF_SYSdown(SF)   = 0.008 , 0.008 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.178 , 0.178 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.014 , 0.014 %
+                         MU_ISO_STATdown(SF)   = 0.003 , 0.003 %
+                          MU_ISO_SYSdown(SF)   = 0.002 , 0.002 %
+                           rQCD_Num_down(SF)   = 11.175 , 7.026 %
+                             kW_Num_down(SF)   = 3.812 , 0.000 %
+                           rQCD_Den_down(SF)   = 10.164 , 5.503 %
+                             kW_Den_down(SF)   = 3.749 , 0.000 %
+
+  Total)   = 22.933 , 18.110 %
+01 bin :  28 GeV -  30 GeV 
+Eff_(MC,Data) = 23.404 , 29.005 
+
+                          MUONS_ID_1down(SF)   = 0.405 , 0.028 %
+                          MUONS_MS_1down(SF)   = 2.187 , 0.469 %
+                       MUONS_SCALE_1down(SF)   = 0.005 , 0.000 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.000 , 0.992 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.000 , 1.146 %
+                        PRW_DATASF_1down(SF)   = 2.069 , 2.044 %
+                         MU_EFF_STATdown(SF)   = 0.031 , 0.031 %
+                          MU_EFF_SYSdown(SF)   = 0.001 , 0.001 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.054 , 0.054 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.010 , 0.010 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.002 , 0.002 %
+                           rQCD_Num_down(SF)   = 5.595 , 2.926 %
+                             kW_Num_down(SF)   = 2.027 , 0.000 %
+                           rQCD_Den_down(SF)   = 3.976 , 1.200 %
+                             kW_Den_down(SF)   = 1.552 , 0.000 %
+
+  Total)   = 7.928 , 4.087 %
+02 bin :  30 GeV -  32 GeV 
+Eff_(MC,Data) = 52.006 , 51.273 
+
+                          MUONS_ID_1down(SF)   = 0.008 , 0.000 %
+                          MUONS_MS_1down(SF)   = 1.284 , 0.000 %
+                       MUONS_SCALE_1down(SF)   = 0.019 , 0.007 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.561 , 1.449 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.159 , 0.003 %
+                        PRW_DATASF_1down(SF)   = 0.376 , 1.729 %
+                         MU_EFF_STATdown(SF)   = 0.009 , 0.009 %
+                          MU_EFF_SYSdown(SF)   = 0.018 , 0.018 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.035 , 0.035 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.032 , 0.031 %
+                         MU_ISO_STATdown(SF)   = 0.002 , 0.002 %
+                          MU_ISO_SYSdown(SF)   = 0.008 , 0.008 %
+                           rQCD_Num_down(SF)   = 3.129 , 1.762 %
+                             kW_Num_down(SF)   = 1.329 , 0.000 %
+                           rQCD_Den_down(SF)   = 2.732 , 1.284 %
+                             kW_Den_down(SF)   = 0.718 , 0.000 %
+
+  Total)   = 4.655 , 3.138 %
+03 bin :  32 GeV -  34 GeV 
+Eff_(MC,Data) = 64.819 , 60.449 
+
+                          MUONS_ID_1down(SF)   = 0.012 , 0.007 %
+                          MUONS_MS_1down(SF)   = 0.127 , 0.000 %
+                       MUONS_SCALE_1down(SF)   = 0.013 , 0.000 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.653 , 0.015 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.014 , 0.029 %
+                        PRW_DATASF_1down(SF)   = 1.543 , 0.000 %
+                         MU_EFF_STATdown(SF)   = 0.001 , 0.001 %
+                          MU_EFF_SYSdown(SF)   = 0.007 , 0.007 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.018 , 0.018 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.007 , 0.006 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.001 , 0.001 %
+                           rQCD_Num_down(SF)   = 0.971 , 1.726 %
+                             kW_Num_down(SF)   = 0.000 , 0.660 %
+                           rQCD_Den_down(SF)   = 0.656 , 1.388 %
+                             kW_Den_down(SF)   = 0.158 , 0.907 %
+
+  Total)   = 2.055 , 2.483 %
+04 bin :  34 GeV -  36 GeV 
+Eff_(MC,Data) = 73.247 , 70.507 
+
+                          MUONS_ID_1down(SF)   = 0.022 , 0.008 %
+                          MUONS_MS_1down(SF)   = 0.009 , 0.008 %
+                       MUONS_SCALE_1down(SF)   = 0.001 , 0.008 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.019 , 0.051 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.000 , 0.018 %
+                        PRW_DATASF_1down(SF)   = 2.473 , 0.354 %
+                         MU_EFF_STATdown(SF)   = 0.003 , 0.003 %
+                          MU_EFF_SYSdown(SF)   = 0.007 , 0.007 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.001 , 0.000 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.002 , 0.002 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.002 , 0.002 %
+                           rQCD_Num_down(SF)   = 2.658 , 2.090 %
+                             kW_Num_down(SF)   = 1.307 , 0.739 %
+                           rQCD_Den_down(SF)   = 2.669 , 1.989 %
+                             kW_Den_down(SF)   = 0.803 , 0.230 %
+
+  Total)   = 4.760 , 3.009 %
+05 bin :  36 GeV -  39 GeV 
+Eff_(MC,Data) = 79.303 , 78.784 
+
+                          MUONS_ID_1down(SF)   = 0.000 , 0.019 %
+                          MUONS_MS_1down(SF)   = 0.028 , 0.008 %
+                       MUONS_SCALE_1down(SF)   = 0.004 , 0.000 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.101 , 0.119 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.049 , 0.004 %
+                        PRW_DATASF_1down(SF)   = 1.052 , 0.386 %
+                         MU_EFF_STATdown(SF)   = 0.007 , 0.007 %
+                          MU_EFF_SYSdown(SF)   = 0.003 , 0.003 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.002 , 0.001 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.007 , 0.007 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.002 , 0.002 %
+                           rQCD_Num_down(SF)   = 1.069 , 0.760 %
+                             kW_Num_down(SF)   = 1.064 , 0.755 %
+                           rQCD_Den_down(SF)   = 1.869 , 1.503 %
+                             kW_Den_down(SF)   = 0.444 , 0.133 %
+
+  Total)   = 2.662 , 1.894 %
+06 bin :  39 GeV -  43 GeV 
+Eff_(MC,Data) = 82.743 , 82.155 
+
+                          MUONS_ID_1down(SF)   = 0.005 , 0.006 %
+                          MUONS_MS_1down(SF)   = 0.000 , 0.018 %
+                       MUONS_SCALE_1down(SF)   = 0.000 , 0.000 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.000 , 0.397 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.000 , 0.281 %
+                        PRW_DATASF_1down(SF)   = 0.130 , 0.171 %
+                         MU_EFF_STATdown(SF)   = 0.002 , 0.002 %
+                          MU_EFF_SYSdown(SF)   = 0.001 , 0.001 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.003 , 0.003 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.000 , 0.000 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.000 , 0.000 %
+                           rQCD_Num_down(SF)   = 1.091 , 1.114 %
+                             kW_Num_down(SF)   = 0.752 , 0.775 %
+                           rQCD_Den_down(SF)   = 1.581 , 1.555 %
+                             kW_Den_down(SF)   = 0.048 , 0.071 %
+
+  Total)   = 2.067 , 2.128 %
+07 bin :  43 GeV -  52 GeV 
+Eff_(MC,Data) = 88.213 , 82.999 
+
+                          MUONS_ID_1down(SF)   = 0.192 , 0.015 %
+                          MUONS_MS_1down(SF)   = 0.193 , 0.003 %
+                       MUONS_SCALE_1down(SF)   = 0.191 , 0.001 %
+                    MET_SoftTrk_ResoPerp(SF)   = 1.767 , 0.000 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.001 , 0.003 %
+                        PRW_DATASF_1down(SF)   = 0.223 , 1.520 %
+                         MU_EFF_STATdown(SF)   = 0.002 , 0.002 %
+                          MU_EFF_SYSdown(SF)   = 0.002 , 0.002 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.009 , 0.009 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.004 , 0.004 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.001 , 0.001 %
+                           rQCD_Num_down(SF)   = 1.346 , 2.076 %
+                             kW_Num_down(SF)   = 0.147 , 0.876 %
+                           rQCD_Den_down(SF)   = 1.140 , 1.823 %
+                             kW_Den_down(SF)   = 0.000 , 0.671 %
+
+  Total)   = 2.533 , 3.341 %
+08 bin :  52 GeV -  64 GeV 
+Eff_(MC,Data) = 86.656 , 81.149 
+
+                          MUONS_ID_1down(SF)   = 0.022 , 0.000 %
+                          MUONS_MS_1down(SF)   = 0.000 , 0.034 %
+                       MUONS_SCALE_1down(SF)   = 0.000 , 0.034 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.034 , 0.107 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.000 , 0.029 %
+                        PRW_DATASF_1down(SF)   = 0.532 , 0.000 %
+                         MU_EFF_STATdown(SF)   = 0.006 , 0.006 %
+                          MU_EFF_SYSdown(SF)   = 0.009 , 0.009 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.016 , 0.016 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.026 , 0.026 %
+                         MU_ISO_STATdown(SF)   = 0.002 , 0.002 %
+                          MU_ISO_SYSdown(SF)   = 0.007 , 0.007 %
+                           rQCD_Num_down(SF)   = 1.221 , 0.261 %
+                             kW_Num_down(SF)   = 1.597 , 0.638 %
+                           rQCD_Den_down(SF)   = 1.328 , 0.354 %
+                             kW_Den_down(SF)   = 1.598 , 0.613 %
+
+  Total)   = 2.940 , 0.996 %
+09 bin :  64 GeV -  80 GeV 
+Eff_(MC,Data) = 91.480 , 92.798 
+
+                          MUONS_ID_1down(SF)   = 0.000 , 0.002 %
+                          MUONS_MS_1down(SF)   = 0.000 , 0.013 %
+                       MUONS_SCALE_1down(SF)   = 0.000 , 0.013 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.010 , 0.013 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.009 , 0.005 %
+                        PRW_DATASF_1down(SF)   = 0.279 , 0.113 %
+                         MU_EFF_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_EFF_SYSdown(SF)   = 0.000 , 0.000 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.001 , 0.002 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.002 , 0.002 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.000 , 0.000 %
+                           rQCD_Num_down(SF)   = 0.336 , 0.505 %
+                             kW_Num_down(SF)   = 0.000 , 0.085 %
+                           rQCD_Den_down(SF)   = 0.320 , 0.486 %
+                             kW_Den_down(SF)   = 0.000 , 0.085 %
+
+  Total)   = 0.541 , 0.721 %
+10 bin :  80 GeV - 100 GeV 
+Eff_(MC,Data) = 92.247 , 91.496 
+
+                          MUONS_ID_1down(SF)   = 0.034 , 0.000 %
+                          MUONS_MS_1down(SF)   = 0.000 , 0.000 %
+                       MUONS_SCALE_1down(SF)   = 0.000 , 0.000 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.026 , 0.000 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.026 , 0.028 %
+                        PRW_DATASF_1down(SF)   = 0.322 , 0.183 %
+                         MU_EFF_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_EFF_SYSdown(SF)   = 0.000 , 0.000 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.004 , 0.004 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.002 , 0.002 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.001 , 0.001 %
+                           rQCD_Num_down(SF)   = 0.370 , 0.556 %
+                             kW_Num_down(SF)   = 0.000 , 0.093 %
+                           rQCD_Den_down(SF)   = 0.202 , 0.387 %
+                             kW_Den_down(SF)   = 0.000 , 0.093 %
+
+  Total)   = 0.533 , 0.714 %
+11 bin : 100 GeV - 150 GeV 
+Eff_(MC,Data) = 99.034 , 94.189 
+
+                          MUONS_ID_1down(SF)   = 0.000 , 0.000 %
+                          MUONS_MS_1down(SF)   = 0.000 , 0.015 %
+                       MUONS_SCALE_1down(SF)   = 0.000 , 0.000 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.081 , 0.020 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.066 , 0.016 %
+                        PRW_DATASF_1down(SF)   = 0.065 , 0.115 %
+                         MU_EFF_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_EFF_SYSdown(SF)   = 0.000 , 0.000 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.002 , 0.002 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.002 , 0.002 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.000 , 0.001 %
+                           rQCD_Num_down(SF)   = 0.203 , 0.305 %
+                             kW_Num_down(SF)   = 0.000 , 0.051 %
+                           rQCD_Den_down(SF)   = 0.097 , 0.199 %
+                             kW_Den_down(SF)   = 0.000 , 0.051 %
+
+  Total)   = 0.256 , 0.390 %
+12 bin : 150 GeV - 300 GeV 
+Eff_(MC,Data) = 89.963 , 78.553 
+
+                          MUONS_ID_1down(SF)   = 0.000 , 0.000 %
+                          MUONS_MS_1down(SF)   = 0.000 , 0.000 %
+                       MUONS_SCALE_1down(SF)   = 0.000 , 0.000 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.000 , 0.484 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.000 , 0.000 %
+                        PRW_DATASF_1down(SF)   = 0.352 , 0.216 %
+                         MU_EFF_STATdown(SF)   = 0.001 , 0.001 %
+                          MU_EFF_SYSdown(SF)   = 0.005 , 0.005 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.003 , 0.003 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.005 , 0.005 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.002 , 0.002 %
+                           rQCD_Num_down(SF)   = 0.000 , 0.000 %
+                             kW_Num_down(SF)   = 0.000 , 0.000 %
+                           rQCD_Den_down(SF)   = 0.120 , 0.120 %
+                             kW_Den_down(SF)   = 0.000 , 0.000 %
+
+  Total)   = 0.372 , 0.544 %
+End Caluculate
+00 bin == 0.019380 , 0.016206 
+01 bin == 0.036314 , 0.031434 
+02 bin == 0.042093 , 0.038180 
+03 bin == 0.030811 , 0.032503 
+04 bin == 0.044707 , 0.036466 
+05 bin == 0.033433 , 0.031397 
+06 bin == 0.025969 , 0.027199 
+07 bin == 0.027680 , 0.034129 
+08 bin == 0.049764 , 0.049149 
+09 bin == 0.026052 , 0.033461 
+10 bin == 0.039473 , 0.055031 
+11 bin == 0.028423 , 0.041224 
+12 bin == 0.074051 , 0.089162 
+
+
+--Summary----------------------------
+ --- 00 bin :  25 -  28 GeV--- 
+00  MC stat == 20.816 %, 14.697 %
+00 Datastat == 71.800 %, 60.369 %
+00  sys     == 22.933 %, 18.110 %
+00  Total   == 132.707 %, 88.643 %
+ --- 01 bin :  28 -  30 GeV--- 
+01  MC stat == 6.030 %, 5.381 %
+01 Datastat == 13.337 %, 12.794 %
+01  sys     == 7.928 %, 4.087 %
+01  Total   == 23.696 %, 19.377 %
+ --- 02 bin :  30 -  32 GeV--- 
+02  MC stat == 3.151 %, 2.964 %
+02 Datastat == 6.622 %, 6.637 %
+02  sys     == 4.655 %, 3.138 %
+02  Total   == 11.462 %, 10.046 %
+ --- 03 bin :  32 -  34 GeV--- 
+03  MC stat == 2.419 %, 2.307 %
+03 Datastat == 4.286 %, 4.357 %
+03  sys     == 2.055 %, 2.483 %
+03  Total   == 7.157 %, 7.050 %
+ --- 04 bin :  34 -  36 GeV--- 
+04  MC stat == 2.006 %, 1.929 %
+04 Datastat == 3.820 %, 3.967 %
+04  sys     == 4.760 %, 3.009 %
+04  Total   == 8.206 %, 6.739 %
+ --- 05 bin :  36 -  39 GeV--- 
+05  MC stat == 1.491 %, 1.448 %
+05 Datastat == 3.270 %, 3.477 %
+05  sys     == 2.662 %, 1.894 %
+05  Total   == 5.805 %, 5.340 %
+ --- 06 bin :  39 -  43 GeV--- 
+06  MC stat == 1.352 %, 1.317 %
+06 Datastat == 2.362 %, 2.505 %
+06  sys     == 2.067 %, 2.128 %
+06  Total   == 4.573 %, 4.551 %
+ --- 07 bin :  43 -  52 GeV--- 
+07  MC stat == 1.145 %, 1.119 %
+07 Datastat == 1.852 %, 1.951 %
+07  sys     == 2.533 %, 3.341 %
+07  Total   == 4.309 %, 4.878 %
+ --- 08 bin :  52 -  64 GeV--- 
+08  MC stat == 2.733 %, 2.591 %
+08 Datastat == 4.933 %, 5.584 %
+08  sys     == 2.940 %, 0.996 %
+08  Total   == 8.761 %, 7.951 %
+ --- 09 bin :  64 -  80 GeV--- 
+09  MC stat == 3.362 %, 3.150 %
+09 Datastat == 2.796 %, 3.586 %
+09  sys     == 0.541 %, 0.721 %
+09  Total   == 7.343 %, 6.738 %
+ --- 10 bin :  80 - 100 GeV--- 
+10  MC stat == 4.317 %, 3.974 %
+10 Datastat == 4.246 %, 5.923 %
+10  sys     == 0.533 %, 0.714 %
+10  Total   == 10.845 %, 9.670 %
+ --- 11 bin : 100 - 150 GeV--- 
+11  MC stat == 0.920 %, 0.904 %
+11 Datastat == 2.859 %, 4.144 %
+11  sys     == 0.256 %, 0.390 %
+11  Total   == 6.008 %, 4.984 %
+ --- 12 bin : 150 - 300 GeV--- 
+12  MC stat == 7.153 %, 6.258 %
+12 Datastat == 8.223 %, 9.896 %
+12  sys     == 0.372 %, 0.544 %
+12  Total   == 19.483 %, 14.755 %
+
+Applying ATLAS style settings...
+
+
+Processing SF_sys.C+...
+
+Applying ATLAS style settings...
+
+Total bin== 13 
+   bin=13
+125 pass > base
+125 pass > base
+125 pass > base
+125 pass > base
+125 pass > base
+125 pass > base
+Load End... Start Caluculate
+00 bin :  25 GeV -  28 GeV 
+Eff_(MC,Data) = 51.108 , 56.242 
+
+                          MUONS_ID_1down(SF)   = 0.395 , 0.191 %
+                          MUONS_MS_1down(SF)   = 0.710 , 0.272 %
+                       MUONS_SCALE_1down(SF)   = 0.334 , 0.000 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.000 , 2.468 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.164 , 0.338 %
+                        PRW_DATASF_1down(SF)   = 3.576 , 0.471 %
+                         MU_EFF_STATdown(SF)   = 0.002 , 0.002 %
+                          MU_EFF_SYSdown(SF)   = 0.005 , 0.005 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.030 , 0.030 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.015 , 0.015 %
+                         MU_ISO_STATdown(SF)   = 0.001 , 0.001 %
+                          MU_ISO_SYSdown(SF)   = 0.003 , 0.003 %
+                           rQCD_Num_down(SF)   = 1.514 , 2.359 %
+                             kW_Num_down(SF)   = 1.352 , 2.198 %
+                           rQCD_Den_down(SF)   = 1.288 , 2.081 %
+                             kW_Den_down(SF)   = 1.668 , 2.437 %
+
+  Total)   = 4.706 , 5.215 %
+01 bin :  28 GeV -  30 GeV 
+Eff_(MC,Data) = 81.404 , 80.203 
+
+                          MUONS_ID_1down(SF)   = 0.000 , 0.115 %
+                          MUONS_MS_1down(SF)   = 0.000 , 0.274 %
+                       MUONS_SCALE_1down(SF)   = 0.049 , 0.077 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.632 , 0.000 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.442 , 0.107 %
+                        PRW_DATASF_1down(SF)   = 0.049 , 0.735 %
+                         MU_EFF_STATdown(SF)   = 0.002 , 0.002 %
+                          MU_EFF_SYSdown(SF)   = 0.002 , 0.002 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.010 , 0.010 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.003 , 0.003 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.001 , 0.001 %
+                           rQCD_Num_down(SF)   = 1.162 , 1.735 %
+                             kW_Num_down(SF)   = 1.324 , 1.897 %
+                           rQCD_Den_down(SF)   = 0.852 , 1.399 %
+                             kW_Den_down(SF)   = 1.330 , 1.852 %
+
+  Total)   = 2.490 , 3.555 %
+02 bin :  30 GeV -  32 GeV 
+Eff_(MC,Data) = 89.186 , 86.755 
+
+                          MUONS_ID_1down(SF)   = 0.022 , 0.031 %
+                          MUONS_MS_1down(SF)   = 0.142 , 0.055 %
+                       MUONS_SCALE_1down(SF)   = 0.000 , 0.034 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.015 , 0.061 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.168 , 0.188 %
+                        PRW_DATASF_1down(SF)   = 0.314 , 0.000 %
+                         MU_EFF_STATdown(SF)   = 0.001 , 0.001 %
+                          MU_EFF_SYSdown(SF)   = 0.003 , 0.003 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.003 , 0.003 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.001 , 0.001 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.001 , 0.001 %
+                           rQCD_Num_down(SF)   = 0.713 , 1.168 %
+                             kW_Num_down(SF)   = 0.596 , 1.050 %
+                           rQCD_Den_down(SF)   = 0.625 , 1.064 %
+                             kW_Den_down(SF)   = 0.616 , 1.056 %
+
+  Total)   = 1.335 , 2.181 %
+03 bin :  32 GeV -  34 GeV 
+Eff_(MC,Data) = 91.269 , 90.193 
+
+                          MUONS_ID_1down(SF)   = 0.036 , 0.052 %
+                          MUONS_MS_1down(SF)   = 0.080 , 0.148 %
+                       MUONS_SCALE_1down(SF)   = 0.000 , 0.055 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.000 , 0.190 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.030 , 0.009 %
+                        PRW_DATASF_1down(SF)   = 0.175 , 0.174 %
+                         MU_EFF_STATdown(SF)   = 0.002 , 0.002 %
+                          MU_EFF_SYSdown(SF)   = 0.001 , 0.001 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.001 , 0.001 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.010 , 0.009 %
+                         MU_ISO_STATdown(SF)   = 0.001 , 0.001 %
+                          MU_ISO_SYSdown(SF)   = 0.003 , 0.003 %
+                           rQCD_Num_down(SF)   = 0.519 , 0.998 %
+                             kW_Num_down(SF)   = 0.571 , 1.049 %
+                           rQCD_Den_down(SF)   = 0.445 , 0.914 %
+                             kW_Den_down(SF)   = 0.753 , 1.212 %
+
+  Total)   = 1.184 , 2.120 %
+04 bin :  34 GeV -  36 GeV 
+Eff_(MC,Data) = 92.409 , 92.279 
+
+                          MUONS_ID_1down(SF)   = 0.067 , 0.038 %
+                          MUONS_MS_1down(SF)   = 0.000 , 0.074 %
+                       MUONS_SCALE_1down(SF)   = 0.030 , 0.091 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.289 , 0.000 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.000 , 0.053 %
+                        PRW_DATASF_1down(SF)   = 0.000 , 0.224 %
+                         MU_EFF_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_EFF_SYSdown(SF)   = 0.000 , 0.000 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.002 , 0.002 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.003 , 0.003 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.001 , 0.001 %
+                           rQCD_Num_down(SF)   = 0.718 , 0.466 %
+                             kW_Num_down(SF)   = 1.219 , 0.967 %
+                           rQCD_Den_down(SF)   = 0.768 , 0.508 %
+                             kW_Den_down(SF)   = 1.137 , 0.865 %
+
+  Total)   = 1.993 , 1.492 %
+05 bin :  36 GeV -  39 GeV 
+Eff_(MC,Data) = 94.676 , 92.883 
+
+                          MUONS_ID_1down(SF)   = 0.000 , 0.035 %
+                          MUONS_MS_1down(SF)   = 0.736 , 0.000 %
+                       MUONS_SCALE_1down(SF)   = 0.006 , 0.000 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.000 , 0.071 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.000 , 0.018 %
+                        PRW_DATASF_1down(SF)   = 0.034 , 0.027 %
+                         MU_EFF_STATdown(SF)   = 0.002 , 0.002 %
+                          MU_EFF_SYSdown(SF)   = 0.003 , 0.003 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.002 , 0.002 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.006 , 0.006 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.002 , 0.002 %
+                           rQCD_Num_down(SF)   = 1.014 , 0.000 %
+                             kW_Num_down(SF)   = 1.912 , 0.678 %
+                           rQCD_Den_down(SF)   = 1.197 , 0.000 %
+                             kW_Den_down(SF)   = 1.788 , 0.526 %
+
+  Total)   = 3.140 , 0.862 %
+06 bin :  39 GeV -  43 GeV 
+Eff_(MC,Data) = 93.535 , 93.158 
+
+                          MUONS_ID_1down(SF)   = 0.000 , 0.068 %
+                          MUONS_MS_1down(SF)   = 0.000 , 0.081 %
+                       MUONS_SCALE_1down(SF)   = 0.000 , 0.005 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.019 , 0.015 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.000 , 0.003 %
+                        PRW_DATASF_1down(SF)   = 0.206 , 0.166 %
+                         MU_EFF_STATdown(SF)   = 0.002 , 0.002 %
+                          MU_EFF_SYSdown(SF)   = 0.004 , 0.004 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.007 , 0.007 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.004 , 0.004 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.001 , 0.001 %
+                           rQCD_Num_down(SF)   = 0.602 , 0.000 %
+                             kW_Num_down(SF)   = 1.068 , 0.445 %
+                           rQCD_Den_down(SF)   = 0.736 , 0.109 %
+                             kW_Den_down(SF)   = 0.977 , 0.345 %
+
+  Total)   = 1.744 , 0.606 %
+07 bin :  43 GeV -  52 GeV 
+Eff_(MC,Data) = 94.627 , 95.410 
+
+                          MUONS_ID_1down(SF)   = 0.030 , 0.000 %
+                          MUONS_MS_1down(SF)   = 0.002 , 0.003 %
+                       MUONS_SCALE_1down(SF)   = 0.038 , 0.000 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.413 , 0.000 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.000 , 0.290 %
+                        PRW_DATASF_1down(SF)   = 0.368 , 1.535 %
+                         MU_EFF_STATdown(SF)   = 0.008 , 0.008 %
+                          MU_EFF_SYSdown(SF)   = 0.008 , 0.008 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.009 , 0.009 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.014 , 0.014 %
+                         MU_ISO_STATdown(SF)   = 0.001 , 0.001 %
+                          MU_ISO_SYSdown(SF)   = 0.004 , 0.004 %
+                           rQCD_Num_down(SF)   = 0.332 , 0.194 %
+                             kW_Num_down(SF)   = 0.348 , 0.210 %
+                           rQCD_Den_down(SF)   = 0.457 , 0.316 %
+                             kW_Den_down(SF)   = 0.418 , 0.278 %
+
+  Total)   = 0.961 , 1.643 %
+08 bin :  52 GeV -  64 GeV 
+Eff_(MC,Data) = 96.462 , 94.559 
+
+                          MUONS_ID_1down(SF)   = 0.000 , 0.161 %
+                          MUONS_MS_1down(SF)   = 0.009 , 0.100 %
+                       MUONS_SCALE_1down(SF)   = 0.000 , 0.026 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.039 , 0.876 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.234 , 0.000 %
+                        PRW_DATASF_1down(SF)   = 0.948 , 0.664 %
+                         MU_EFF_STATdown(SF)   = 0.001 , 0.001 %
+                          MU_EFF_SYSdown(SF)   = 0.002 , 0.002 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.001 , 0.001 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.002 , 0.002 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.001 , 0.001 %
+                           rQCD_Num_down(SF)   = 0.199 , 0.110 %
+                             kW_Num_down(SF)   = 0.248 , 0.159 %
+                           rQCD_Den_down(SF)   = 0.302 , 0.211 %
+                             kW_Den_down(SF)   = 0.254 , 0.164 %
+
+  Total)   = 1.101 , 1.164 %
+09 bin :  64 GeV -  80 GeV 
+Eff_(MC,Data) = 96.302 , 98.672 
+
+                          MUONS_ID_1down(SF)   = 0.000 , 0.025 %
+                          MUONS_MS_1down(SF)   = 0.089 , 0.000 %
+                       MUONS_SCALE_1down(SF)   = 0.000 , 0.001 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.000 , 0.126 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.000 , 0.032 %
+                        PRW_DATASF_1down(SF)   = 0.056 , 0.000 %
+                         MU_EFF_STATdown(SF)   = 0.002 , 0.002 %
+                          MU_EFF_SYSdown(SF)   = 0.003 , 0.003 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.007 , 0.007 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.007 , 0.007 %
+                         MU_ISO_STATdown(SF)   = 0.001 , 0.001 %
+                          MU_ISO_SYSdown(SF)   = 0.002 , 0.002 %
+                           rQCD_Num_down(SF)   = 0.573 , 0.000 %
+                             kW_Num_down(SF)   = 0.835 , 0.251 %
+                           rQCD_Den_down(SF)   = 0.728 , 0.141 %
+                             kW_Den_down(SF)   = 0.776 , 0.188 %
+
+  Total)   = 1.473 , 0.369 %
+10 bin :  80 GeV - 100 GeV 
+Eff_(MC,Data) = 97.267 , 97.705 
+
+                          MUONS_ID_1down(SF)   = 0.094 , 0.001 %
+                          MUONS_MS_1down(SF)   = 0.091 , 0.000 %
+                       MUONS_SCALE_1down(SF)   = 0.091 , 0.000 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.000 , 0.169 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.091 , 0.172 %
+                        PRW_DATASF_1down(SF)   = 0.275 , 0.268 %
+                         MU_EFF_STATdown(SF)   = 0.002 , 0.002 %
+                          MU_EFF_SYSdown(SF)   = 0.004 , 0.004 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.004 , 0.004 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.005 , 0.005 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.002 , 0.002 %
+                           rQCD_Num_down(SF)   = 0.115 , 0.101 %
+                             kW_Num_down(SF)   = 0.007 , 0.000 %
+                           rQCD_Den_down(SF)   = 0.225 , 0.210 %
+                             kW_Den_down(SF)   = 0.007 , 0.000 %
+
+  Total)   = 0.416 , 0.429 %
+11 bin : 100 GeV - 150 GeV 
+Eff_(MC,Data) = 97.637 , 100.000 
+
+                          MUONS_ID_1down(SF)   = 0.000 , 0.000 %
+                          MUONS_MS_1down(SF)   = 0.000 , 0.000 %
+                       MUONS_SCALE_1down(SF)   = 0.000 , 0.000 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.000 , 0.000 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.000 , 0.000 %
+                        PRW_DATASF_1down(SF)   = 0.000 , 0.000 %
+                         MU_EFF_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_EFF_SYSdown(SF)   = 0.000 , 0.000 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.000 , 0.000 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.000 , 0.000 %
+                         MU_ISO_STATdown(SF)   = 0.000 , 0.000 %
+                          MU_ISO_SYSdown(SF)   = 0.000 , 0.000 %
+                           rQCD_Num_down(SF)   = 0.000 , 0.000 %
+                             kW_Num_down(SF)   = 0.000 , 0.000 %
+                           rQCD_Den_down(SF)   = 0.000 , 0.000 %
+                             kW_Den_down(SF)   = 0.000 , 0.000 %
+
+  Total)   = 0.000 , 0.000 %
+12 bin : 150 GeV - 300 GeV 
+Eff_(MC,Data) = 100.000 , 95.032 
+
+                          MUONS_ID_1down(SF)   = 0.000 , 0.009 %
+                          MUONS_MS_1down(SF)   = 0.000 , 0.000 %
+                       MUONS_SCALE_1down(SF)   = 0.000 , 0.000 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.000 , 0.105 %
+                   MET_SoftTrk_ScaleDown(SF)   = 0.000 , 0.000 %
+                        PRW_DATASF_1down(SF)   = 0.175 , 0.049 %
+                         MU_EFF_STATdown(SF)   = 0.002 , 0.002 %
+                          MU_EFF_SYSdown(SF)   = 0.003 , 0.003 %
+                     MU_EFF_TrigSTATdown(SF)   = 0.006 , 0.006 %
+                      MU_EFF_TrigSYSdown(SF)   = 0.008 , 0.008 %
+                         MU_ISO_STATdown(SF)   = 0.001 , 0.001 %
+                          MU_ISO_SYSdown(SF)   = 0.002 , 0.002 %
+                           rQCD_Num_down(SF)   = 0.136 , 0.119 %
+                             kW_Num_down(SF)   = 0.008 , 0.000 %
+                           rQCD_Den_down(SF)   = 0.292 , 0.273 %
+                             kW_Den_down(SF)   = 0.008 , 0.000 %
+
+
+                          MUONS_ID_1    (SF)   = 0.000 , 0.009 %
+                          MUONS_MS_1    (SF)   = 0.000 , 0.000 %
+                       MUONS_SCALE_1    (SF)   = 0.000 , 0.000 %
+                    MET_SoftTrk_ResoPerp(SF)   = 0.000 , 0.105 %
+                   MET_SoftTrk_Scale    (SF)   = 0.000 , 0.000 %
+                        PRW_DATASF_1    (SF)   = 0.175 , 0.049 %
+                         MU_EFF_STAT    (SF)   = 0.002 , 0.002 %
+                          MU_EFF_SYS    (SF)   = 0.003 , 0.003 %
+                     MU_EFF_TrigSTAT    (SF)   = 0.006 , 0.006 %
+                      MU_EFF_TrigSYS    (SF)   = 0.008 , 0.008 %
+                         MU_ISO_STAT    (SF)   = 0.001 , 0.001 %
+                          MU_ISO_SYS    (SF)   = 0.002 , 0.002 %
+                           rQCD_Num_    (SF)   = 0.136 , 0.119 %
+                             kW_Num_    (SF)   = 0.008 , 0.000 %
+                           rQCD_Den_    (SF)   = 0.292 , 0.273 %
+                             kW_Den_    (SF)   = 0.008 , 0.000 %
+
+
+  Total)   = 0.367 , 0.320 %
+End Caluculate
+00 bin == 0.030953 , 0.033092 
+01 bin == 0.026354 , 0.033873 
+02 bin == 0.016455 , 0.022824 
+03 bin == 0.015314 , 0.022570 
+04 bin == 0.021150 , 0.017846 
+05 bin == 0.031100 , 0.012854 
+06 bin == 0.018567 , 0.011177 
+07 bin == 0.011668 , 0.017545 
+08 bin == 0.016308 , 0.018294 
+09 bin == 0.016379 , 0.014520 
+10 bin == 0.012497 , 0.018445 
+11 bin == 0.000000 , 0.012156 
+12 bin == 0.029755 , 0.048258 
+
+
+--Summary----------------------------
+ --- 00 bin :  25 -  28 GeV--- 
+00  MC stat == 1.462 %, 1.420 %
+00 Datastat == 3.812 %, 3.837 %
+00  sys     == 4.706 %, 5.215 %
+00  Total   == 7.755 %, 7.946 %
+ --- 01 bin :  28 -  30 GeV--- 
+01  MC stat == 0.877 %, 0.862 %
+01 Datastat == 2.069 %, 2.162 %
+01  sys     == 2.490 %, 3.555 %
+01  Total   == 4.148 %, 4.974 %
+ --- 02 bin :  30 -  32 GeV--- 
+02  MC stat == 0.655 %, 0.646 %
+02 Datastat == 1.274 %, 1.339 %
+02  sys     == 1.335 %, 2.181 %
+02  Total   == 2.515 %, 3.171 %
+ --- 03 bin :  32 -  34 GeV--- 
+03  MC stat == 0.599 %, 0.592 %
+03 Datastat == 1.189 %, 1.273 %
+03  sys     == 1.184 %, 2.120 %
+03  Total   == 2.303 %, 3.043 %
+ --- 04 bin :  34 -  36 GeV--- 
+04  MC stat == 0.583 %, 0.576 %
+04 Datastat == 1.125 %, 1.227 %
+04  sys     == 1.993 %, 1.492 %
+04  Total   == 2.911 %, 2.496 %
+ --- 05 bin :  36 -  39 GeV--- 
+05  MC stat == 0.434 %, 0.430 %
+05 Datastat == 0.966 %, 1.049 %
+05  sys     == 3.140 %, 0.862 %
+05  Total   == 3.748 %, 1.774 %
+ --- 06 bin :  39 -  43 GeV--- 
+06  MC stat == 0.514 %, 0.509 %
+06 Datastat == 0.947 %, 1.030 %
+06  sys     == 1.744 %, 0.606 %
+06  Total   == 2.532 %, 1.695 %
+ --- 07 bin :  43 -  52 GeV--- 
+07  MC stat == 0.517 %, 0.512 %
+07 Datastat == 0.773 %, 0.860 %
+07  sys     == 0.961 %, 1.643 %
+07  Total   == 1.793 %, 2.361 %
+ --- 08 bin :  52 -  64 GeV--- 
+08  MC stat == 0.841 %, 0.827 %
+08 Datastat == 1.283 %, 1.497 %
+08  sys     == 1.101 %, 1.164 %
+08  Total   == 2.674 %, 2.691 %
+ --- 09 bin :  64 -  80 GeV--- 
+09  MC stat == 1.231 %, 1.201 %
+09 Datastat == 0.851 %, 1.462 %
+09  sys     == 1.379 %, 0.369 %
+09  Total   == 2.991 %, 2.720 %
+ --- 10 bin :  80 - 100 GeV--- 
+10  MC stat == 1.329 %, 1.294 %
+10 Datastat == 1.216 %, 1.847 %
+10  sys     == 0.416 %, 0.429 %
+10  Total   == 3.247 %, 3.172 %
+ --- 11 bin : 100 - 150 GeV--- 
+11  MC stat == 1.423 %, 1.384 %
+11 Datastat == 0.000 %, 1.245 %
+11  sys     == 0.000 %, 0.000 %
+11  Total   == 2.399 %, 2.645 %
+ --- 12 bin : 150 - 300 GeV--- 
+12  MC stat == 0.000 %, 0.000 %
+12 Datastat == 2.953 %, 4.815 %
+12  sys     == 0.367 %, 0.320 %
+12  Total   == 8.713 %, 4.826 %
